@@ -1,1 +1,1 @@
-# SKD6_TI-E_V3920059_VIORELLA
+PLAYFAIR CHIPER ADALAH Kunci kriptografinya adalah 25 buah huruf yang disusun di dalam bujursangkat 5x5 dengan menghilangkan huruf J dari abjad. Setiap elemen bujursangkar berisi huruf yang berbeda satu sama lain
